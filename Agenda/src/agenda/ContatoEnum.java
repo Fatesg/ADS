@@ -4,9 +4,6 @@
  * and open the template in the editor.
  */
 package agenda;
-import agenda.Principal;
-
-import javax.swing.JComboBox;
 
 /**
  *
